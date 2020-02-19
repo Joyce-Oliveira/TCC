@@ -1,0 +1,48 @@
+.row{
+  text-align: center;
+}
+/*BOTÕES--------------------------------------------*/
+.ButtonBranco {
+	background-color:transparent;
+	border-radius:7px;
+	border:2px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 150px;
+	text-decoration:none;
+  margin-top: 2%;
+}
+.ButtonBranco:hover {
+	background-color:transparent;
+}
+.ButtonBranco:active {
+	position:relative;
+	top:1px;
+}
+.ButtonPreto {
+	background-color:#000000;
+	border-radius:7px;
+	border:2px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 140px;
+	text-decoration:none;
+  margin-top: 80%;
+}
+.ButtonPreto:hover {
+	background-color:#000000;
+}
+.ButtonPreto:active {
+	position:relative;
+	top:1px;
+}
+/*------------------------------------------------*/
+

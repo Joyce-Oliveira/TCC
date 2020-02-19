@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+}
+.row{
+ text-align : center;
+margin-top: 100%;
+}
+.ButtonPreto {
+	background-color:#000000;
+	border-radius:7px;
+	border:2px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:14px 60px;
+	text-decoration:none;
+}
+.ButtonPreto:hover {
+	background-color:#000000;
+}
+.ButtonPreto:active {
+	position:relative;
+	top:1px;
+}
+
